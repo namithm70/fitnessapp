@@ -1,0 +1,18 @@
+{
+  "name": "fitlife-nts-backend",
+  "version": "1.0.0",
+  "description": "Backend service for generating Twilio Network Traversal Service tokens",
+  "main": "backend-nts-server.js",
+  "scripts": {
+    "start": "node backend-nts-server.js",
+    "dev": "nodemon backend-nts-server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "twilio": "^4.19.0",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}

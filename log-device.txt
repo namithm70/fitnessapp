@@ -1,0 +1,1133 @@
+﻿
+09-15 13:22:34.404 D/AudioTrackImpl(16317): [audioTrackData][fine] 45s(f:45005 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:22:35.309 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:22:35.479 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:22:36.318 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:22:36.489 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:22:39.407 D/AudioTrackImpl(16317): [audioTrackData][fine] 50s(f:50008 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:22:42.441 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:22:42.611 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:22:43.456 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:22:43.624 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:22:44.400 D/AudioTrackImpl(16317): [audioTrackData][fine] 55s(f:55001 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:22:46.446 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:22:46.614 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:22:47.298 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:22:47.538 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:22:49.403 D/AudioTrackImpl(16317): [audioTrackData][fine] 60s(f:60004 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:22:49.430 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:22:49.628 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:22:50.685 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:22:50.854 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:22:51.465 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:22:51.750 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:22:53.853 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:22:54.052 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:22:54.411 D/AudioTrackImpl(16317): [audioTrackData][fine] 5s(f:5007 m:0 s:0 k:0 z:0) : pid 16317 uid 10224 
+sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:22:55.368 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:22:55.583 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:22:55.615 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:22:55.785 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:22:57.915 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:22:58.112 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:22:59.407 D/AudioTrackImpl(16317): [audioTrackData][fine] 10s(f:10004 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 254
+09-15 13:22:59.960 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:00.189 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:00.506 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:00.690 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:02.815 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:03.011 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:04.405 D/AudioTrackImpl(16317): [audioTrackData][fine] 15s(f:15002 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:23:04.852 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:05.020 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:05.673 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:05.864 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:06.086 I/System.out(19569): DEBUG: CallViewModel - connectionState: CLOSED
+09-15 13:23:06.122 I/System.out(19569): DEBUG: CallViewModel - listenForCallSession update: INITIATING
+09-15 13:23:06.122 I/System.out(19569): DEBUG: CallViewModel - handleCallSessionUpdate: status=INITIATING, 
+callerSdp=false, receiverSdp=false
+09-15 13:23:06.137 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:06.618 I/System.out(19569): DEBUG: CallViewModel - listenForCallSession update: INITIATING
+09-15 13:23:06.618 I/System.out(19569): DEBUG: CallViewModel - handleCallSessionUpdate: status=INITIATING, 
+callerSdp=false, receiverSdp=false
+09-15 13:23:06.814 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:07.140 D/AudioTrackStub( 2765): AudioTrackStub() create
+09-15 13:23:07.141 I/AudioTrackImpl( 2765): initAudioTrackImpl()
+09-15 13:23:07.143 D/AudioTrack( 2765): set(): (sessionId=38017), mcallback is 0, streamType 2, sampleRate 48000, 
+format 0x1, channelMask 0x3, frameCount 24000, flags 0x1, notificationFrames 0,transferType 0, 
+mClientAttributionSource AttributionSourceState{pid: 19569, uid: 10426, deviceId: 0, packageName: 
+com.fitnessss.fitlife, attributionTag: (null), token: binder:0xb40000768c817c30, renouncedPermissions: [], next: []}
+09-15 13:23:07.167 I/AudioTrackImpl( 2765): before scaleVolumeForVideo L:1.000000 R:1.000000 and the pakage is 
+com.fitnessss.fitlife
+09-15 13:23:07.168 I/AudioTrack( 2765): AudioTrack::setVolume L:1.000000 R:1.000000 sessionid=38017
+09-15 13:23:07.168 D/AudioTrackImpl( 2765): setMediaSetMute(7891): Parameter media_set_track_muted is 0 return
+09-15 13:23:07.170 I/AudioTrackImpl( 2765): before scaleVolumeForVideo L:1.000000 R:1.000000 and the pakage is 
+com.fitnessss.fitlife
+09-15 13:23:07.170 I/AudioTrack( 2765): AudioTrack::setVolume L:1.000000 R:1.000000 sessionid=38017
+09-15 13:23:07.170 D/AudioTrackImpl( 2765): setMediaSetMute(7891): Parameter media_set_track_muted is 0 return
+09-15 13:23:07.170 I/AudioTrack( 2765): start(7891): prior state:STATE_STOPPED packageName: com.fitnessss.fitlife
+09-15 13:23:07.268 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:07.356 D/AlertCoordinator( 4537): onViewBound, buzzBeep for 0|com.fitnessss.fitlife|1001|null|10426
+09-15 13:23:07.442 D/MiuiShortcut-ShortcutPluginImpl( 4537): onSystemUIAction, action: onBottomAreaAlphaChange, 
+newConfig=1.0
+09-15 13:23:07.458 D/AudioTrackImpl( 2765): [APM]-AT reScheduleCpu() cpuSet=248 tid=22100
+09-15 13:23:07.458 D/AudioTrackImpl( 2765): [APM]-AT reScheduleCpu() cpuSet=248 tid=22100
+09-15 13:23:07.509 I/System.out(19569): DEBUG: CallViewModel - listenForCallSession update: INITIATING
+09-15 13:23:07.509 I/System.out(19569): DEBUG: CallViewModel - handleCallSessionUpdate: status=INITIATING, 
+callerSdp=true, receiverSdp=false
+09-15 13:23:08.000 I/System.out(19569): DEBUG: CallViewModel - listenForCallSession update: RINGING
+09-15 13:23:08.000 I/System.out(19569): DEBUG: CallViewModel - handleCallSessionUpdate: status=RINGING, 
+callerSdp=true, receiverSdp=false
+09-15 13:23:08.000 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:08.309 I/System.out(19569): DEBUG: CallViewModel - answerCall() called for session: 
+8gvPc4gWAAIJEPHedALu, isVideoCall: false
+09-15 13:23:08.311 I/AudioTrack( 2765): pause(sessionID=38017) pause(7891): prior state:STATE_ACTIVE packageName: 
+com.fitnessss.fitlife
+09-15 13:23:08.321 I/AudioTrack( 2765): pause(sessionID=38017) pause(7891): prior state:STATE_PAUSED packageName: 
+com.fitnessss.fitlife
+09-15 13:23:08.322 I/AudioTrack( 2765): stop(sessionID=38017), packageName: com.fitnessss.fitlife
+09-15 13:23:08.322 D/AudioTrack( 2765): stop(7891): prior state:STATE_FLUSHED
+09-15 13:23:08.336 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:08.343 I/AudioTrack( 2765): stop(sessionID=38017), packageName: com.fitnessss.fitlife
+09-15 13:23:08.343 D/AudioTrack( 2765): stop(7891): prior state:STATE_FLUSHED
+09-15 13:23:08.343 D/AudioTrack( 2765): ~AudioTrack(sessionID=38017)
+09-15 13:23:08.343 I/AudioTrack( 2765): stop(sessionID=38017), packageName: com.fitnessss.fitlife
+09-15 13:23:08.343 D/AudioTrack( 2765): stop(7891): prior state:STATE_FLUSHED
+09-15 13:23:08.344 D/AudioTrackStub( 2765): ~AudioTrackStub() destroy
+09-15 13:23:08.358 I/System.out(19569): DEBUG: CallViewModel - listenForCallSession update: CONNECTING
+09-15 13:23:08.358 I/System.out(19569): DEBUG: CallViewModel - handleCallSessionUpdate: status=CONNECTING, 
+callerSdp=true, receiverSdp=false
+09-15 13:23:08.359 I/System.out(19569): DEBUG: CallViewModel - handleCallSessionUpdate: CONNECTING status, SDP 
+processing handled in answerCall()
+09-15 13:23:08.756 D/MiuiShortcut-ShortcutPluginImpl( 4537): onSystemUIAction, action: onBottomAreaAlphaChange, 
+newConfig=1.0
+09-15 13:23:08.853 D/ShortcutIcon( 4189): setMessage textnull
+09-15 13:23:08.931 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:09.129 I/System.out(19569): DEBUG: CallViewModel - answerCall repository success, status updated to 
+CONNECTING
+09-15 13:23:09.129 I/System.out(19569): DEBUG: WebRTCService - createPeerConnection() called, isVideoCall: false
+09-15 13:23:09.129 I/System.out(19569): DEBUG: WebRTCService - immediatelyActivateAudio() called
+09-15 13:23:09.150 I/System.out(19569): DEBUG: WebRTCService - Requesting audio focus...
+09-15 13:23:09.151 I/MediaFocusControl( 2344): requestAudioFocus() from uid/pid 10426/19569 
+AA=USAGE_VOICE_COMMUNICATION/CONTENT_TYPE_SPEECH clientId=android.media.AudioManager@c2f23e2com.fitnessss.fitlife.da
+ta.service.WebRTCService$$ExternalSyntheticLambda1@4e5aeea callingPack=com.fitnessss.fitlife req=2 flags=0x0 sdk=36
+09-15 13:23:09.156 I/System.out(19569): DEBUG: WebRTCService - requestAudioFocus result: 1 (GRANTED)
+09-15 13:23:09.156 I/AudioTrack(16317): pause(sessionID=36513) pause(7890): prior state:STATE_ACTIVE packageName: 
+com.google.android.youtube
+09-15 13:23:09.862 I/BTAudioSessionAidl( 1555): ReportControlStatus - status=SUCCESS for 
+SessionType=A2DP_HARDWARE_OFFLOAD_ENCODING_DATAPATH, bluetooth_audio=0x0200 suspended
+09-15 13:23:09.918 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:10.089 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:10.130 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:10.248 D/AudioTrackImpl(16317): [audioTrackData][fine] 20s(f:20845 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:23:10.298 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:10.521 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:10.643 I/System.out(19569): DEBUG: WebRTCService - Audio configuration complete - mode: 3, mic mute: 
+false, speaker: true
+09-15 13:23:10.646 I/System.out(19569): DEBUG: WebRTCService - Audio hardware info - available devices: 3, music 
+active: false
+09-15 13:23:10.648 I/System.out(19569): DEBUG: WebRTCService - Audio immediately activated: mode=3, micMute=false, 
+speaker=true
+09-15 13:23:10.648 I/System.out(19569): DEBUG: WebRTCService - RTCConfiguration iceTransportsType set to ALL for 
+connectivity
+09-15 13:23:10.653 I/System.out(19569): DEBUG: WebRTCService - createAudioTrack() with constraints: mandatory: 
+[googEchoCancellation: true, googNoiseSuppression: true, googAutoGainControl: true, googHighpassFilter: true, 
+googAudioMirroring: false, googCpuOveruseDetection: false, googDsp: false], optional: [googTypingNoiseDetection: 
+true, googAgcGain: 0, googAgcTargetDbov: 3, googAudioMirroring: false, googNoiseReduction: true]
+09-15 13:23:10.653 I/System.out(19569): DEBUG: WebRTCService - Audio track created: true
+09-15 13:23:10.653 I/System.out(19569): DEBUG: WebRTCService - Audio track enabled: true
+09-15 13:23:10.653 I/System.out(19569): DEBUG: WebRTCService - Audio track kind: audio
+09-15 13:23:10.653 I/System.out(19569): DEBUG: WebRTCService - Audio track id: audio_track
+09-15 13:23:10.653 I/System.out(19569): DEBUG: WebRTCService - Audio source state: LIVE
+09-15 13:23:10.653 I/System.out(19569): DEBUG: WebRTCService - onRenegotiationNeeded
+09-15 13:23:10.654 I/System.out(19569): DEBUG: WebRTCService - addTrack returned sender is null? false
+09-15 13:23:10.654 I/System.out(19569): DEBUG: WebRTCService - Audio track successfully added to peer connection
+09-15 13:23:10.654 I/System.out(19569): DEBUG: WebRTCService - Sender track: audio_track
+09-15 13:23:10.654 I/System.out(19569): DEBUG: WebRTCService - Sender parameters: org.webrtc.RtpParameters@412f5db
+09-15 13:23:10.654 I/System.out(19569): DEBUG: WebRTCService - Activating call audio mode...
+09-15 13:23:10.655 I/System.out(19569): DEBUG: WebRTCService - Audio mode set to: 3
+09-15 13:23:10.655 I/System.out(19569): DEBUG: WebRTCService - Audio focus already held; skipping request
+09-15 13:23:10.684 I/System.out(19569): DEBUG: WebRTCService - Set STREAM_VOICE_CALL volume to max: 11
+09-15 13:23:10.684 I/System.out(19569): DEBUG: WebRTCService - Call audio mode activated
+09-15 13:23:10.686 I/System.out(19569): DEBUG: WebRTCService - Current audio settings: mode=3, speaker=true, 
+micMute=false
+09-15 13:23:10.686 I/System.out(19569): DEBUG: WebRTCService - PeerConnection created: true
+09-15 13:23:10.686 I/System.out(19569): DEBUG: CallViewModel - answerCall: peer created, processing callerSdp
+09-15 13:23:10.686 I/System.out(19569): DEBUG: CallViewModel - answerCall: processing existing callerSdp
+09-15 13:23:10.686 I/System.out(19569): DEBUG: WebRTCService - setRemoteDescription: OFFER length=1377
+09-15 13:23:10.687 I/System.out(19569): DEBUG: WebRTCService - onSignalingChange: HAVE_REMOTE_OFFER
+09-15 13:23:10.688 I/System.out(19569): DEBUG: WebRTCService - onTrack: MEDIA_TYPE_AUDIO
+09-15 13:23:10.688 I/System.out(19569): DEBUG: WebRTCService - Received remote audio track
+09-15 13:23:10.690 I/System.out(19569): DEBUG: WebRTCService - Audio routing: mode=3, speaker=true, micMute=false
+09-15 13:23:10.691 I/System.out(19569): DEBUG: WebRTCService - onAddStream: 1 audio tracks, 0 video tracks
+09-15 13:23:10.691 I/System.out(19569): DEBUG: WebRTCService - setRemoteDescription success
+09-15 13:23:10.691 I/System.out(19569): DEBUG: WebRTCService - ensurePeerAndLocalAudio() called
+09-15 13:23:10.691 I/System.out(19569): DEBUG: WebRTCService - Peer state: PC=NEW ICE=NEW
+09-15 13:23:10.692 I/System.out(19569): DEBUG: WebRTCService - Sender: kind=audio enabled=true id=audio_track
+09-15 13:23:10.692 D/WebRTCService(19569): ensureMicrophoneAccess() called
+09-15 13:23:10.696 I/System.out(19569): DEBUG: WebRTCService - Audio focus already held; skipping request
+09-15 13:23:10.696 D/WebRTCService(19569): Local audio track enabled: true
+09-15 13:23:10.704 I/WebRTCService(19569): Microphone access ensured - Mode: 3, Mic muted: false
+09-15 13:23:10.704 I/System.out(19569): DEBUG: WebRTCService - createAnswer() with constraints: mandatory: 
+[OfferToReceiveAudio: true, OfferToReceiveVideo: false], optional: [], isVideoCall: false
+09-15 13:23:10.704 I/System.out(19569): DEBUG: WebRTCService - createAnswer() starting with constraints: mandatory: 
+[OfferToReceiveAudio: true, OfferToReceiveVideo: false], optional: []
+09-15 13:23:10.705 I/System.out(19569): DEBUG: WebRTCService - createAnswer() success: ANSWER length=1332
+09-15 13:23:10.706 I/System.out(19569): DEBUG: WebRTCService - onSignalingChange: STABLE
+09-15 13:23:10.707 I/org.webrtc.Logging(19569): WebRtcAudioTrackExternal: initPlayout(sampleRate=48000, channels=1, 
+bufferSizeFactor=1.0)
+09-15 13:23:10.707 I/org.webrtc.Logging(19569): WebRtcAudioTrackExternal: byteBuffer.capacity: 960
+09-15 13:23:10.711 I/org.webrtc.Logging(19569): WebRtcAudioTrackExternal: minBufferSizeInBytes: 7688
+09-15 13:23:10.711 I/org.webrtc.Logging(19569): WebRtcAudioTrackExternal: createAudioTrackBeforeOreo
+09-15 13:23:10.713 I/org.webrtc.Logging(19569): WebRtcAudioTrackExternal: nativeOutputSampleRate: 48000
+09-15 13:23:10.714 D/AudioTrackStub(19569): AudioTrackStub() create
+09-15 13:23:10.714 I/AudioTrackImpl(19569): initAudioTrackImpl()
+09-15 13:23:10.714 D/AudioTrack(19569): set(): (sessionId=0), mcallback is 1, streamType -1, sampleRate 48000, 
+format 0x1, channelMask 0x1, frameCount 3844, flags 0, notificationFrames 0,transferType 3, 
+mClientAttributionSource AttributionSourceState{pid: 19569, uid: 10426, deviceId: 0, packageName: 
+com.fitnessss.fitlife, attributionTag: (null), token: binder:0xb400007dcda312f0, renouncedPermissions: [], next: []}
+09-15 13:23:10.743 D/AudioTrackImpl(19569): [APM]-AT reScheduleCpu() cpuSet=248 tid=22156
+09-15 13:23:10.746 I/org.webrtc.Logging(19569): WebRtcAudioTrackExternal: AudioTrack: session ID: 38025, channels: 
+1, sample rate: 48000, max gain: 1.0
+09-15 13:23:10.746 I/org.webrtc.Logging(19569): WebRtcAudioTrackExternal: AudioTrack: buffer size in frames: 3844
+09-15 13:23:10.746 I/org.webrtc.Logging(19569): WebRtcAudioTrackExternal: AudioTrack: buffer capacity in frames: 
+3844
+09-15 13:23:10.746 I/org.webrtc.Logging(19569): VolumeLogger: start@[name=worker_thread - 20986, id=29432]
+09-15 13:23:10.746 I/org.webrtc.Logging(19569): VolumeLogger: audio mode is: MODE_IN_COMMUNICATION
+09-15 13:23:10.747 I/org.webrtc.Logging(19569): WebRtcAudioTrackExternal: startPlayout
+09-15 13:23:10.750 I/AudioTrack(19569): start(7893): prior state:STATE_STOPPED packageName: com.fitnessss.fitlife
+09-15 13:23:10.754 I/org.webrtc.Logging(19569): VolumeLogger: VOICE_CALL stream volume: 11 (max=11)
+09-15 13:23:10.801 D/AudioTrackImpl(19569): [APM]-AT reScheduleCpu() cpuSet=248 tid=20986
+09-15 13:23:10.803 I/org.webrtc.Logging(19569): WebRtcAudioTrackExternal: 
+AudioTrackThread@[name=AudioTrackJavaThread, id=29455]
+09-15 13:23:10.803 I/org.webrtc.Logging(19569): WebRtcAudioTrackExternal: doAudioTrackStateCallback: 0
+09-15 13:23:10.803 I/WebRTCService(19569): Audio playback started - speaker is active
+09-15 13:23:10.803 D/AudioTrackImpl(19569): [APM]-AT reScheduleCpu() cpuSet=248 tid=22160
+09-15 13:23:10.804 I/org.webrtc.Logging(19569): NetworkMonitor: Start monitoring with native observer 
+-5476376605487306864 fieldTrialsString: 
+09-15 13:23:10.807 W/org.webrtc.Logging(19569): NetworkMonitorAutoDetect: Unable to obtain permission to request a 
+cellular network.
+09-15 13:23:10.811 I/org.webrtc.Logging(19569): NetworkMonitorAutoDetect: Network becomes available: 204
+09-15 13:23:10.812 I/org.webrtc.Logging(19569): NetworkMonitorAutoDetect: capabilities changed: [ Transports: 
+CELLULAR Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN&VALIDATED&NOT_ROAMING&FOREGROUND&NOT_CONGESTED&NOT_SU
+SPENDED&NOT_VCN_MANAGED&NOT_BANDWIDTH_CONSTRAINED LinkUpBandwidth>=11627Kbps LinkDnBandwidth>=62723Kbps Specifier: 
+<TelephonyNetworkSpecifier [mSubId = 2]> SubscriptionIds: {2} UnderlyingNetworks: Null]
+09-15 13:23:10.812 I/System.out(19569): DEBUG: WebRTCService - onIceGatheringChange: GATHERING
+09-15 13:23:10.813 I/System.out(19569): DEBUG: WebRTCService - createAnswer() result: ANSWER length=1332
+09-15 13:23:10.813 I/System.out(19569): DEBUG: CallViewModel - answerCall: answer created: type=ANSWER length=1332
+09-15 13:23:10.813 I/System.out(19569): DEBUG: CallRepository - updateSignalingData: setting receiverSdp for 
+session 8gvPc4gWAAIJEPHedALu
+09-15 13:23:10.816 I/org.webrtc.Logging(19569): NetworkMonitorAutoDetect: link properties changed
+09-15 13:23:10.822 I/System.out(19569): DEBUG: WebRTCService - onIceCandidate: 0:0
+09-15 13:23:10.822 I/System.out(19569): DEBUG: CallViewModel - onIceCandidateFound 0:0
+09-15 13:23:10.823 I/System.out(19569): DEBUG: WebRTCService - onIceCandidate: 0:0
+09-15 13:23:10.823 I/System.out(19569): DEBUG: CallViewModel - onIceCandidateFound 0:0
+09-15 13:23:10.823 I/System.out(19569): DEBUG: WebRTCService - onIceCandidate: 0:0
+09-15 13:23:10.823 I/System.out(19569): DEBUG: CallViewModel - onIceCandidateFound 0:0
+09-15 13:23:10.825 I/System.out(19569): DEBUG: WebRTCService - onIceCandidate: 0:0
+09-15 13:23:10.825 I/System.out(19569): DEBUG: CallViewModel - onIceCandidateFound 0:0
+09-15 13:23:10.833 I/System.out(19569): DEBUG: CallViewModel - listenForCallSession update: CONNECTING
+09-15 13:23:10.833 I/System.out(19569): DEBUG: CallViewModel - handleCallSessionUpdate: status=CONNECTING, 
+callerSdp=true, receiverSdp=true
+09-15 13:23:10.833 I/System.out(19569): DEBUG: CallViewModel - handleCallSessionUpdate: CONNECTING status, SDP 
+processing handled in answerCall()
+09-15 13:23:10.833 I/System.out(19569): DEBUG: CallViewModel - handleCallSessionUpdate: receiverSdp received
+09-15 13:23:10.833 I/System.out(19569): DEBUG: WebRTCService - setRemoteDescription: ANSWER length=1332
+09-15 13:23:10.834 I/System.out(19569): DEBUG: WebRTCService - setRemoteDescription success
+09-15 13:23:10.847 I/System.out(19569): DEBUG: CallViewModel - listenForCallSession update: CONNECTING
+09-15 13:23:10.847 I/System.out(19569): DEBUG: CallViewModel - handleCallSessionUpdate: status=CONNECTING, 
+callerSdp=true, receiverSdp=true
+09-15 13:23:10.848 I/System.out(19569): DEBUG: CallViewModel - handleCallSessionUpdate: CONNECTING status, SDP 
+processing handled in answerCall()
+09-15 13:23:10.848 I/System.out(19569): DEBUG: CallViewModel - new ICE candidates: 1
+09-15 13:23:10.848 I/System.out(19569): DEBUG: WebRTCService - addIceCandidate: 0:0
+09-15 13:23:10.848 I/System.out(19569): DEBUG: WebRTCService - onConnectionChange: CONNECTING
+09-15 13:23:10.848 I/System.out(19569): DEBUG: CallViewModel - onConnectionStateChanged CONNECTING
+09-15 13:23:10.848 I/System.out(19569): DEBUG: WebRTCService - onIceConnectionChange: CHECKING
+09-15 13:23:10.849 I/System.out(19569): DEBUG: CallViewModel - connectionState: CONNECTING
+09-15 13:23:10.866 I/System.out(19569): DEBUG: CallViewModel - listenForCallSession update: CONNECTING
+09-15 13:23:10.866 I/System.out(19569): DEBUG: CallViewModel - handleCallSessionUpdate: status=CONNECTING, 
+callerSdp=true, receiverSdp=true
+09-15 13:23:10.866 I/System.out(19569): DEBUG: CallViewModel - handleCallSessionUpdate: CONNECTING status, SDP 
+processing handled in answerCall()
+09-15 13:23:10.866 I/System.out(19569): DEBUG: CallViewModel - new ICE candidates: 1
+09-15 13:23:10.867 I/System.out(19569): DEBUG: WebRTCService - addIceCandidate: 0:0
+09-15 13:23:10.872 I/System.out(19569): DEBUG: CallViewModel - listenForCallSession update: CONNECTING
+09-15 13:23:10.872 I/System.out(19569): DEBUG: CallViewModel - handleCallSessionUpdate: status=CONNECTING, 
+callerSdp=true, receiverSdp=true
+09-15 13:23:10.872 I/System.out(19569): DEBUG: CallViewModel - handleCallSessionUpdate: CONNECTING status, SDP 
+processing handled in answerCall()
+09-15 13:23:10.873 I/System.out(19569): DEBUG: CallViewModel - new ICE candidates: 1
+09-15 13:23:10.873 I/System.out(19569): DEBUG: WebRTCService - addIceCandidate: 0:0
+09-15 13:23:10.881 I/System.out(19569): DEBUG: CallViewModel - listenForCallSession update: CONNECTING
+09-15 13:23:10.882 I/System.out(19569): DEBUG: CallViewModel - handleCallSessionUpdate: status=CONNECTING, 
+callerSdp=true, receiverSdp=true
+09-15 13:23:10.882 I/System.out(19569): DEBUG: CallViewModel - handleCallSessionUpdate: CONNECTING status, SDP 
+processing handled in answerCall()
+09-15 13:23:10.882 I/System.out(19569): DEBUG: CallViewModel - new ICE candidates: 1
+09-15 13:23:10.882 I/System.out(19569): DEBUG: WebRTCService - addIceCandidate: 0:0
+09-15 13:23:10.887 I/System.out(19569): DEBUG: CallViewModel - listenForCallSession update: CONNECTED
+09-15 13:23:10.887 I/System.out(19569): DEBUG: CallViewModel - handleCallSessionUpdate: status=CONNECTED, 
+callerSdp=true, receiverSdp=true
+09-15 13:23:10.887 I/System.out(19569): DEBUG: CallViewModel - handleCallSessionUpdate: call connected successfully
+09-15 13:23:10.887 I/System.out(19569): DEBUG: WebRTCService - ensureAudioTrackEnabled() called
+09-15 13:23:10.887 I/System.out(19569): DEBUG: WebRTCService - Local audio track state: enabled=true, kind=audio
+09-15 13:23:10.893 I/System.out(19569): DEBUG: WebRTCService - Audio manager state: mode=3, micMute=false, 
+speaker=true
+09-15 13:23:10.893 I/System.out(19569): DEBUG: WebRTCService - Audio Setup State Check:
+09-15 13:23:10.893 I/System.out(19569):   - PeerConnectionFactory: true
+09-15 13:23:10.893 I/System.out(19569):   - PeerConnection: true
+09-15 13:23:10.893 I/System.out(19569):   - LocalAudioTrack: true (enabled: true)
+09-15 13:23:10.893 I/System.out(19569):   - HasActivePeerConnection: true
+09-15 13:23:10.897 I/System.out(19569): DEBUG: WebRTCService - onCallConnected() - ensuring audio is fully activated
+09-15 13:23:10.897 I/System.out(19569): DEBUG: WebRTCService - ensurePeerAndLocalAudio() called
+09-15 13:23:10.897 I/System.out(19569): DEBUG: WebRTCService - Peer state: PC=CONNECTING ICE=CHECKING
+09-15 13:23:10.898 I/System.out(19569): DEBUG: WebRTCService - Sender: kind=audio enabled=true id=audio_track
+09-15 13:23:10.898 D/WebRTCService(19569): ensureMicrophoneAccess() called
+09-15 13:23:10.902 I/System.out(19569): DEBUG: WebRTCService - Audio focus already held; skipping request
+09-15 13:23:10.902 D/WebRTCService(19569): Local audio track enabled: true
+09-15 13:23:10.902 I/System.out(19569): DEBUG: WebRTCService - onIceCandidate: 0:0
+09-15 13:23:10.902 I/System.out(19569): DEBUG: CallViewModel - onIceCandidateFound 0:0
+09-15 13:23:10.906 I/WebRTCService(19569): Microphone access ensured - Mode: 3, Mic muted: false
+09-15 13:23:10.906 I/System.out(19569): DEBUG: WebRTCService - ensureAudioTrackEnabled() called
+09-15 13:23:10.906 I/System.out(19569): DEBUG: WebRTCService - Local audio track state: enabled=true, kind=audio
+09-15 13:23:10.911 I/System.out(19569): DEBUG: WebRTCService - Audio manager state: mode=3, micMute=false, 
+speaker=true
+09-15 13:23:10.911 I/System.out(19569): DEBUG: WebRTCService - Audio Setup State Check:
+09-15 13:23:10.911 I/System.out(19569):   - PeerConnectionFactory: true
+09-15 13:23:10.911 I/System.out(19569):   - PeerConnection: true
+09-15 13:23:10.911 I/System.out(19569):   - LocalAudioTrack: true (enabled: true)
+09-15 13:23:10.911 I/System.out(19569):   - HasActivePeerConnection: true
+09-15 13:23:10.914 I/System.out(19569): DEBUG: WebRTCService - forceAudioRecordingStart() called
+09-15 13:23:10.922 I/System.out(19569): DEBUG: WebRTCService - Forced audio recording: mode=3, micMute=false
+09-15 13:23:10.922 I/System.out(19569): DEBUG: WebRTCService - Local audio track enabled: true
+09-15 13:23:10.922 I/System.out(19569): DEBUG: WebRTCService - Audio Setup State Check:
+09-15 13:23:10.922 I/System.out(19569):   - PeerConnectionFactory: true
+09-15 13:23:10.922 I/System.out(19569):   - PeerConnection: true
+09-15 13:23:10.922 I/System.out(19569):   - LocalAudioTrack: true (enabled: true)
+09-15 13:23:10.922 I/System.out(19569):   - HasActivePeerConnection: true
+09-15 13:23:10.924 I/System.out(19569): DEBUG: WebRTCService - onIceCandidate: 0:0
+09-15 13:23:10.924 I/System.out(19569): DEBUG: CallViewModel - onIceCandidateFound 0:0
+09-15 13:23:10.966 I/System.out(19569): DEBUG: CallViewModel - listenForCallSession update: CONNECTED
+09-15 13:23:10.966 I/System.out(19569): DEBUG: CallViewModel - handleCallSessionUpdate: status=CONNECTED, 
+callerSdp=true, receiverSdp=true
+09-15 13:23:10.966 I/System.out(19569): DEBUG: CallViewModel - handleCallSessionUpdate: call connected successfully
+09-15 13:23:10.966 I/System.out(19569): DEBUG: WebRTCService - ensureAudioTrackEnabled() called
+09-15 13:23:10.966 I/System.out(19569): DEBUG: WebRTCService - Local audio track state: enabled=true, kind=audio
+09-15 13:23:10.969 I/System.out(19569): DEBUG: WebRTCService - Audio manager state: mode=3, micMute=false, 
+speaker=true
+09-15 13:23:10.969 I/System.out(19569): DEBUG: WebRTCService - Audio Setup State Check:
+09-15 13:23:10.969 I/System.out(19569):   - PeerConnectionFactory: true
+09-15 13:23:10.969 I/System.out(19569):   - PeerConnection: true
+09-15 13:23:10.969 I/System.out(19569):   - LocalAudioTrack: true (enabled: true)
+09-15 13:23:10.969 I/System.out(19569):   - HasActivePeerConnection: true
+09-15 13:23:10.970 I/System.out(19569): DEBUG: WebRTCService - onCallConnected() - ensuring audio is fully activated
+09-15 13:23:10.970 I/System.out(19569): DEBUG: WebRTCService - ensurePeerAndLocalAudio() called
+09-15 13:23:10.970 I/System.out(19569): DEBUG: WebRTCService - Peer state: PC=CONNECTING ICE=CHECKING
+09-15 13:23:10.970 I/System.out(19569): DEBUG: WebRTCService - Sender: kind=audio enabled=true id=audio_track
+09-15 13:23:10.970 D/WebRTCService(19569): ensureMicrophoneAccess() called
+09-15 13:23:10.972 I/System.out(19569): DEBUG: WebRTCService - Audio focus already held; skipping request
+09-15 13:23:10.972 D/WebRTCService(19569): Local audio track enabled: true
+09-15 13:23:10.976 I/WebRTCService(19569): Microphone access ensured - Mode: 3, Mic muted: false
+09-15 13:23:10.976 I/System.out(19569): DEBUG: WebRTCService - ensureAudioTrackEnabled() called
+09-15 13:23:10.976 I/System.out(19569): DEBUG: WebRTCService - Local audio track state: enabled=true, kind=audio
+09-15 13:23:10.982 I/System.out(19569): DEBUG: WebRTCService - Audio manager state: mode=3, micMute=false, 
+speaker=true
+09-15 13:23:10.982 I/System.out(19569): DEBUG: WebRTCService - Audio Setup State Check:
+09-15 13:23:10.982 I/System.out(19569):   - PeerConnectionFactory: true
+09-15 13:23:10.982 I/System.out(19569):   - PeerConnection: true
+09-15 13:23:10.983 I/System.out(19569):   - LocalAudioTrack: true (enabled: true)
+09-15 13:23:10.983 I/System.out(19569):   - HasActivePeerConnection: true
+09-15 13:23:10.986 I/System.out(19569): DEBUG: WebRTCService - forceAudioRecordingStart() called
+09-15 13:23:10.993 I/System.out(19569): DEBUG: WebRTCService - Forced audio recording: mode=3, micMute=false
+09-15 13:23:10.993 I/System.out(19569): DEBUG: WebRTCService - Local audio track enabled: true
+09-15 13:23:10.993 I/System.out(19569): DEBUG: WebRTCService - Audio Setup State Check:
+09-15 13:23:10.993 I/System.out(19569):   - PeerConnectionFactory: true
+09-15 13:23:10.993 I/System.out(19569):   - PeerConnection: true
+09-15 13:23:10.994 I/System.out(19569):   - LocalAudioTrack: true (enabled: true)
+09-15 13:23:10.994 I/System.out(19569):   - HasActivePeerConnection: true
+09-15 13:23:11.000 I/System.out(19569): DEBUG: CallViewModel - new ICE candidates: 1
+09-15 13:23:11.000 I/System.out(19569): DEBUG: WebRTCService - addIceCandidate: 0:0
+09-15 13:23:11.005 I/System.out(19569): DEBUG: CallViewModel - listenForCallSession update: CONNECTED
+09-15 13:23:11.005 I/System.out(19569): DEBUG: CallViewModel - handleCallSessionUpdate: status=CONNECTED, 
+callerSdp=true, receiverSdp=true
+09-15 13:23:11.005 I/System.out(19569): DEBUG: CallViewModel - handleCallSessionUpdate: call connected successfully
+09-15 13:23:11.005 I/System.out(19569): DEBUG: WebRTCService - ensureAudioTrackEnabled() called
+09-15 13:23:11.006 I/System.out(19569): DEBUG: WebRTCService - Local audio track state: enabled=true, kind=audio
+09-15 13:23:11.010 I/System.out(19569): DEBUG: WebRTCService - Audio manager state: mode=3, micMute=false, 
+speaker=true
+09-15 13:23:11.010 I/System.out(19569): DEBUG: WebRTCService - Audio Setup State Check:
+09-15 13:23:11.011 I/System.out(19569):   - PeerConnectionFactory: true
+09-15 13:23:11.011 I/System.out(19569):   - PeerConnection: true
+09-15 13:23:11.011 I/System.out(19569):   - LocalAudioTrack: true (enabled: true)
+09-15 13:23:11.011 I/System.out(19569):   - HasActivePeerConnection: true
+09-15 13:23:11.014 I/System.out(19569): DEBUG: WebRTCService - onCallConnected() - ensuring audio is fully activated
+09-15 13:23:11.014 I/System.out(19569): DEBUG: WebRTCService - ensurePeerAndLocalAudio() called
+09-15 13:23:11.014 I/System.out(19569): DEBUG: WebRTCService - Peer state: PC=CONNECTING ICE=CHECKING
+09-15 13:23:11.014 I/System.out(19569): DEBUG: WebRTCService - Sender: kind=audio enabled=true id=audio_track
+09-15 13:23:11.014 D/WebRTCService(19569): ensureMicrophoneAccess() called
+09-15 13:23:11.018 I/System.out(19569): DEBUG: WebRTCService - Audio focus already held; skipping request
+09-15 13:23:11.018 D/WebRTCService(19569): Local audio track enabled: true
+09-15 13:23:11.024 I/WebRTCService(19569): Microphone access ensured - Mode: 3, Mic muted: false
+09-15 13:23:11.024 I/System.out(19569): DEBUG: WebRTCService - ensureAudioTrackEnabled() called
+09-15 13:23:11.024 I/System.out(19569): DEBUG: WebRTCService - Local audio track state: enabled=true, kind=audio
+09-15 13:23:11.029 I/System.out(19569): DEBUG: WebRTCService - Audio manager state: mode=3, micMute=false, 
+speaker=true
+09-15 13:23:11.029 I/System.out(19569): DEBUG: WebRTCService - Audio Setup State Check:
+09-15 13:23:11.029 I/System.out(19569):   - PeerConnectionFactory: true
+09-15 13:23:11.029 I/System.out(19569):   - PeerConnection: true
+09-15 13:23:11.030 I/System.out(19569):   - LocalAudioTrack: true (enabled: true)
+09-15 13:23:11.030 I/System.out(19569):   - HasActivePeerConnection: true
+09-15 13:23:11.034 I/System.out(19569): DEBUG: WebRTCService - forceAudioRecordingStart() called
+09-15 13:23:11.043 I/System.out(19569): DEBUG: WebRTCService - Forced audio recording: mode=3, micMute=false
+09-15 13:23:11.043 I/System.out(19569): DEBUG: WebRTCService - Local audio track enabled: true
+09-15 13:23:11.043 I/System.out(19569): DEBUG: WebRTCService - Audio Setup State Check:
+09-15 13:23:11.043 I/System.out(19569):   - PeerConnectionFactory: true
+09-15 13:23:11.043 I/System.out(19569):   - PeerConnection: true
+09-15 13:23:11.044 I/System.out(19569):   - LocalAudioTrack: true (enabled: true)
+09-15 13:23:11.044 I/System.out(19569):   - HasActivePeerConnection: true
+09-15 13:23:11.050 I/System.out(19569): DEBUG: CallViewModel - new ICE candidates: 1
+09-15 13:23:11.050 I/System.out(19569): DEBUG: WebRTCService - addIceCandidate: 0:0
+09-15 13:23:11.203 D/AlertCoordinator( 4537): onViewBound, buzzBeep for 0|com.fitnessss.fitlife|1002|null|10426
+09-15 13:23:11.268 I/System.out(19569): DEBUG: CallViewModel - pushed ICE candidates: 1
+09-15 13:23:11.271 D/AlertCoordinator( 4537): onViewBound, buzzBeep for 0|com.fitnessss.fitlife|1002|null|10426
+09-15 13:23:11.307 D/AlertCoordinator( 4537): onViewBound, buzzBeep for 0|com.fitnessss.fitlife|1002|null|10426
+09-15 13:23:11.331 I/System.out(19569): DEBUG: CallViewModel - pushed ICE candidates: 1
+09-15 13:23:11.374 I/System.out(19569): DEBUG: CallViewModel - pushed ICE candidates: 1
+09-15 13:23:11.404 I/System.out(19569): DEBUG: CallViewModel - pushed ICE candidates: 1
+09-15 13:23:11.459 I/System.out(19569): DEBUG: CallViewModel - pushed ICE candidates: 5
+09-15 13:23:11.510 I/System.out(19569): DEBUG: CallViewModel - pushed ICE candidates: 5
+09-15 13:23:11.661 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:11.844 D/AudioTrackImpl(19569): [audioTrackData][zero] 1s(f:0 m:0 s:0 k:0 z:1041) : pid 19569 uid 10426 
+sessionId 38025 sr 48000 ch 1 fmt 1
+09-15 13:23:11.968 I/System.out(19569): DEBUG: CallViewModel - listenForCallSession update: CONNECTED
+09-15 13:23:11.968 I/System.out(19569): DEBUG: CallViewModel - handleCallSessionUpdate: status=CONNECTED, 
+callerSdp=true, receiverSdp=true
+09-15 13:23:11.968 I/System.out(19569): DEBUG: CallViewModel - handleCallSessionUpdate: call connected successfully
+09-15 13:23:11.968 I/System.out(19569): DEBUG: WebRTCService - ensureAudioTrackEnabled() called
+09-15 13:23:11.969 I/System.out(19569): DEBUG: WebRTCService - Local audio track state: enabled=true, kind=audio
+09-15 13:23:11.978 I/System.out(19569): DEBUG: WebRTCService - Audio manager state: mode=3, micMute=false, 
+speaker=true
+09-15 13:23:11.978 I/System.out(19569): DEBUG: WebRTCService - Audio Setup State Check:
+09-15 13:23:11.978 I/System.out(19569):   - PeerConnectionFactory: true
+09-15 13:23:11.978 I/System.out(19569):   - PeerConnection: true
+09-15 13:23:11.978 I/System.out(19569):   - LocalAudioTrack: true (enabled: true)
+09-15 13:23:11.978 I/System.out(19569):   - HasActivePeerConnection: true
+09-15 13:23:11.984 I/System.out(19569): DEBUG: WebRTCService - onCallConnected() - ensuring audio is fully activated
+09-15 13:23:11.984 I/System.out(19569): DEBUG: WebRTCService - ensurePeerAndLocalAudio() called
+09-15 13:23:11.985 I/System.out(19569): DEBUG: WebRTCService - Peer state: PC=CONNECTING ICE=CHECKING
+09-15 13:23:11.985 I/System.out(19569): DEBUG: WebRTCService - Sender: kind=audio enabled=true id=audio_track
+09-15 13:23:11.985 D/WebRTCService(19569): ensureMicrophoneAccess() called
+09-15 13:23:11.990 I/System.out(19569): DEBUG: WebRTCService - Audio focus already held; skipping request
+09-15 13:23:11.991 D/WebRTCService(19569): Local audio track enabled: true
+09-15 13:23:11.996 I/WebRTCService(19569): Microphone access ensured - Mode: 3, Mic muted: false
+09-15 13:23:11.996 I/System.out(19569): DEBUG: WebRTCService - ensureAudioTrackEnabled() called
+09-15 13:23:11.996 I/System.out(19569): DEBUG: WebRTCService - Local audio track state: enabled=true, kind=audio
+09-15 13:23:12.003 I/System.out(19569): DEBUG: WebRTCService - Audio manager state: mode=3, micMute=false, 
+speaker=true
+09-15 13:23:12.003 I/System.out(19569): DEBUG: WebRTCService - Audio Setup State Check:
+09-15 13:23:12.003 I/System.out(19569):   - PeerConnectionFactory: true
+09-15 13:23:12.003 I/System.out(19569):   - PeerConnection: true
+09-15 13:23:12.003 I/System.out(19569):   - LocalAudioTrack: true (enabled: true)
+09-15 13:23:12.003 I/System.out(19569):   - HasActivePeerConnection: true
+09-15 13:23:12.007 I/System.out(19569): DEBUG: WebRTCService - forceAudioRecordingStart() called
+09-15 13:23:12.016 I/System.out(19569): DEBUG: WebRTCService - Forced audio recording: mode=3, micMute=false
+09-15 13:23:12.016 I/System.out(19569): DEBUG: WebRTCService - Local audio track enabled: true
+09-15 13:23:12.016 I/System.out(19569): DEBUG: WebRTCService - Audio Setup State Check:
+09-15 13:23:12.016 I/System.out(19569):   - PeerConnectionFactory: true
+09-15 13:23:12.016 I/System.out(19569):   - PeerConnection: true
+09-15 13:23:12.017 I/System.out(19569):   - LocalAudioTrack: true (enabled: true)
+09-15 13:23:12.017 I/System.out(19569):   - HasActivePeerConnection: true
+09-15 13:23:12.259 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:12.291 D/AlertCoordinator( 4537): onViewBound, buzzBeep for 0|com.fitnessss.fitlife|1002|null|10426
+09-15 13:23:12.462 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:12.804 D/AudioTrackImpl(19569): [audioTrackData][zero] 2s(f:0 m:0 s:0 k:0 z:2000) : pid 19569 uid 10426 
+sessionId 38025 sr 48000 ch 1 fmt 1
+09-15 13:23:13.825 D/AudioTrackImpl(19569): [audioTrackData][zero] 3s(f:0 m:0 s:0 k:0 z:3021) : pid 19569 uid 10426 
+sessionId 38025 sr 48000 ch 1 fmt 1
+09-15 13:23:13.925 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:14.117 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:14.122 I/vendor.xiaomi.hardware.micharge-service( 1756): ReadFilePathValue path = 
+/sys/class/qcom-battery/real_type value = SDP
+09-15 13:23:14.123 E/IMiCharge(30837): MiCharge method 4 val = SDP
+09-15 13:23:14.124 I/IMiChargeUtils(30837): getIMiChargeStringValue method:getBatteryChargeType,value:SDP
+09-15 13:23:14.124 I/IMiChargeUtils(30837): getBatteryChargeType : SDP
+09-15 13:23:14.124 I/ChargeTimeUtilsV2(30837): chargeType:SDP
+09-15 13:23:14.845 D/AudioTrackImpl(19569): [audioTrackData][zero] 4s(f:0 m:0 s:0 k:0 z:4041) : pid 19569 uid 10426 
+sessionId 38025 sr 48000 ch 1 fmt 1
+09-15 13:23:15.254 D/AudioTrackImpl(16317): [audioTrackData][fine] 25s(f:25851 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:23:15.805 D/AudioTrackImpl(19569): [audioTrackData][zero] 5s(f:0 m:0 s:0 k:0 z:5001) : pid 19569 uid 10426 
+sessionId 38025 sr 48000 ch 1 fmt 1
+09-15 13:23:15.896 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:16.128 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:16.824 D/AudioTrackImpl(19569): [audioTrackData][zero] 6s(f:0 m:0 s:0 k:0 z:6021) : pid 19569 uid 10426 
+sessionId 38025 sr 48000 ch 1 fmt 1
+09-15 13:23:17.844 D/AudioTrackImpl(19569): [audioTrackData][zero] 7s(f:0 m:0 s:0 k:0 z:7041) : pid 19569 uid 10426 
+sessionId 38025 sr 48000 ch 1 fmt 1
+09-15 13:23:18.233 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:18.426 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:18.805 D/AudioTrackImpl(19569): [audioTrackData][zero] 8s(f:0 m:0 s:0 k:0 z:8001) : pid 19569 uid 10426 
+sessionId 38025 sr 48000 ch 1 fmt 1
+09-15 13:23:19.824 D/AudioTrackImpl(19569): [audioTrackData][zero] 9s(f:0 m:0 s:0 k:0 z:9021) : pid 19569 uid 10426 
+sessionId 38025 sr 48000 ch 1 fmt 1
+09-15 13:23:20.262 D/AudioTrackImpl(16317): [audioTrackData][fine] 30s(f:30859 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:23:20.278 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:20.447 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:20.844 D/AudioTrackImpl(19569): [audioTrackData][zero] 10s(f:0 m:0 s:0 k:0 z:10041) : pid 19569 uid 
+10426 sessionId 38025 sr 48000 ch 1 fmt 1
+09-15 13:23:21.027 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:21.220 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:21.804 D/AudioTrackImpl(19569): [audioTrackData][zero] 11s(f:0 m:0 s:0 k:0 z:11001) : pid 19569 uid 
+10426 sessionId 38025 sr 48000 ch 1 fmt 1
+09-15 13:23:22.825 D/AudioTrackImpl(19569): [audioTrackData][zero] 12s(f:0 m:0 s:0 k:0 z:12021) : pid 19569 uid 
+10426 sessionId 38025 sr 48000 ch 1 fmt 1
+09-15 13:23:23.844 D/AudioTrackImpl(19569): [audioTrackData][zero] 13s(f:0 m:0 s:0 k:0 z:13041) : pid 19569 uid 
+10426 sessionId 38025 sr 48000 ch 1 fmt 1
+09-15 13:23:24.347 I/System.out(19569): DEBUG: CallViewModel - listenForCallSession update: ENDED
+09-15 13:23:24.348 I/System.out(19569): DEBUG: CallViewModel - handleCallSessionUpdate: status=ENDED, 
+callerSdp=true, receiverSdp=true
+09-15 13:23:24.348 I/System.out(19569): DEBUG: CallViewModel - handleCallSessionUpdate: call finished with ENDED
+09-15 13:23:24.348 I/System.out(19569): DEBUG: WebRTCService - Camera2 capture stopped
+09-15 13:23:24.352 I/System.out(19569): DEBUG: WebRTCService - onIceConnectionChange: CLOSED
+09-15 13:23:24.352 I/System.out(19569): DEBUG: WebRTCService - onConnectionChange: CLOSED
+09-15 13:23:24.352 I/System.out(19569): DEBUG: CallViewModel - onConnectionStateChanged CLOSED
+09-15 13:23:24.352 I/System.out(19569): DEBUG: WebRTCService - onSignalingChange: CLOSED
+09-15 13:23:24.354 I/org.webrtc.Logging(19569): VolumeLogger: stop@[name=worker_thread - 20986, id=29432]
+09-15 13:23:24.354 I/org.webrtc.Logging(19569): WebRtcAudioTrackExternal: stopPlayout
+09-15 13:23:24.354 I/org.webrtc.Logging(19569): WebRtcAudioTrackExternal: underrun count: 0
+09-15 13:23:24.354 I/org.webrtc.Logging(19569): WebRtcAudioTrackExternal: stopThread
+09-15 13:23:24.354 I/org.webrtc.Logging(19569): WebRtcAudioTrackExternal: Stopping the AudioTrackThread...
+09-15 13:23:24.384 I/org.webrtc.Logging(19569): WebRtcAudioTrackExternal: AudioTrackThread has now been stopped.
+09-15 13:23:24.385 I/org.webrtc.Logging(19569): WebRtcAudioTrackExternal: Calling AudioTrack.stop...
+09-15 13:23:24.385 I/AudioTrack(19569): stop(sessionID=38025), packageName: com.fitnessss.fitlife
+09-15 13:23:24.385 D/AudioTrack(19569): stop(7893): prior state:STATE_ACTIVE
+09-15 13:23:24.385 D/AudioTrack(19569): stop(7893): called with 655200 frames delivered
+09-15 13:23:24.387 I/org.webrtc.Logging(19569): WebRtcAudioTrackExternal: AudioTrack.stop is done.
+09-15 13:23:24.387 I/org.webrtc.Logging(19569): WebRtcAudioTrackExternal: doAudioTrackStateCallback: 1
+09-15 13:23:24.387 W/WebRTCService(19569): Audio playback stopped - speaker not active
+09-15 13:23:24.387 I/org.webrtc.Logging(19569): WebRtcAudioTrackExternal: releaseAudioResources
+09-15 13:23:24.388 I/AudioTrack(19569): stop(sessionID=38025), packageName: com.fitnessss.fitlife
+09-15 13:23:24.388 D/AudioTrack(19569): stop(7893): prior state:STATE_STOPPED
+09-15 13:23:24.388 D/AudioTrack(19569): ~AudioTrack(sessionID=38025)
+09-15 13:23:24.388 I/AudioTrack(19569): stop(sessionID=38025), packageName: com.fitnessss.fitlife
+09-15 13:23:24.388 D/AudioTrack(19569): stop(7893): prior state:STATE_STOPPED
+09-15 13:23:24.391 D/AudioTrackStub(19569): ~AudioTrackStub() destroy
+09-15 13:23:24.395 I/org.webrtc.Logging(19569): NetworkMonitor: Stop monitoring with native observer 
+-5476376605487306864
+09-15 13:23:24.396 I/org.webrtc.Logging(19569): NetworkMonitorAutoDetect: Unregister network callback
+09-15 13:23:24.406 I/MediaFocusControl( 2344): abandonAudioFocus() from uid/pid 10426/19569 clientId=android.media.A
+udioManager@c2f23e2com.fitnessss.fitlife.data.service.WebRTCService$$ExternalSyntheticLambda1@4e5aeea
+09-15 13:23:24.910 I/System.out(19569): DEBUG: WebRTCService - disconnect() completed
+09-15 13:23:24.922 I/System.out(19569): DEBUG: CallViewModel - connectionState: CLOSED
+09-15 13:23:24.942 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:25.013 I/AudioTrack(16317): start(7890): prior state:STATE_PAUSED packageName: 
+com.google.android.youtube
+09-15 13:23:25.138 D/AudioTrackImpl(16317): [APM]-AT reScheduleCpu() cpuSet=248 tid=29616
+09-15 13:23:25.139 D/AudioTrack(16317): getTimestamp_l(7890): device stall time corrected using current time 
+616320828167962
+09-15 13:23:25.139 D/AudioTrackImpl(16317): [audioTrackData][fine] 35s(f:35736 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:23:25.508 D/ShortcutIcon( 4189): setMessage textnull
+09-15 13:23:25.552 I/BTAudioSessionAidl( 1555): ReportControlStatus - status=SUCCESS for 
+SessionType=A2DP_HARDWARE_OFFLOAD_ENCODING_DATAPATH, bluetooth_audio=0x0200 started
+09-15 13:23:25.880 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:28.710 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:28.907 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:30.049 D/AudioTrackImpl(16317): [audioTrackData][fine] 40s(f:40006 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:23:30.738 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:30.909 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:35.050 D/AudioTrackImpl(16317): [audioTrackData][fine] 45s(f:45007 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:23:40.051 D/AudioTrackImpl(16317): [audioTrackData][fine] 50s(f:50007 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:23:45.048 D/AudioTrackImpl(16317): [audioTrackData][fine] 55s(f:55004 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:23:50.052 D/AudioTrackImpl(16317): [audioTrackData][fine] 60s(f:60009 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:23:55.059 D/AudioTrackImpl(16317): [audioTrackData][fine] 5s(f:5006 m:0 s:0 k:0 z:0) : pid 16317 uid 10224 
+sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:23:55.619 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:23:55.789 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:24:00.017 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:24:00.059 D/AudioTrackImpl(16317): [audioTrackData][fine] 10s(f:10007 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:24:00.196 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:24:02.414 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:24:02.478 D/AlertCoordinator( 4537): onViewBound, buzzBeep for 0|com.whatsapp.w4b|11|null|10291
+09-15 13:24:02.951 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:24:04.817 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:24:05.055 D/AudioTrackImpl(16317): [audioTrackData][fine] 15s(f:15003 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:24:05.105 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:24:05.320 D/ShortcutIcon( 4189): setMessage textnull
+09-15 13:24:10.057 D/AudioTrackImpl(16317): [audioTrackData][fine] 20s(f:20004 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:24:14.125 I/vendor.xiaomi.hardware.micharge-service( 1756): ReadFilePathValue path = 
+/sys/class/qcom-battery/real_type value = SDP
+09-15 13:24:14.126 E/IMiCharge(30837): MiCharge method 4 val = SDP
+09-15 13:24:14.126 I/IMiChargeUtils(30837): getIMiChargeStringValue method:getBatteryChargeType,value:SDP
+09-15 13:24:14.126 I/IMiChargeUtils(30837): getBatteryChargeType : SDP
+09-15 13:24:14.126 I/ChargeTimeUtilsV2(30837): chargeType:SDP
+09-15 13:24:15.056 D/AudioTrackImpl(16317): [audioTrackData][fine] 25s(f:25004 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:24:17.356 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:24:17.525 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:24:20.053 D/AudioTrackImpl(16317): [audioTrackData][fine] 30s(f:30001 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:24:25.060 D/AudioTrackImpl(16317): [audioTrackData][fine] 35s(f:35008 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:24:30.060 D/AudioTrackImpl(16317): [audioTrackData][fine] 40s(f:40008 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:24:31.341 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:24:31.375 I/vendor.xiaomi.hardware.micharge-service( 1756): ReadFilePathValue path = 
+/sys/class/qcom-battery/real_type value = SDP
+09-15 13:24:31.376 E/IMiCharge(30837): MiCharge method 4 val = SDP
+09-15 13:24:31.376 I/IMiChargeUtils(30837): getIMiChargeStringValue method:getBatteryChargeType,value:SDP
+09-15 13:24:31.376 I/IMiChargeUtils(30837): getBatteryChargeType : SDP
+09-15 13:24:31.376 I/ChargeTimeUtilsV2(30837): chargeType:SDP
+09-15 13:24:31.377 I/vendor.xiaomi.hardware.micharge-service( 1756): ReadFilePathValue path = 
+/sys/class/qcom-battery/real_type value = SDP
+09-15 13:24:31.378 E/IMiCharge(30837): MiCharge method 4 val = SDP
+09-15 13:24:31.378 I/IMiChargeUtils(30837): getIMiChargeStringValue method:getBatteryChargeType,value:SDP
+09-15 13:24:31.378 I/IMiChargeUtils(30837): getBatteryChargeType : SDP
+09-15 13:24:31.378 I/ChargeTimeUtilsV2(30837): chargeType:SDP
+09-15 13:24:31.524 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:24:35.060 D/AudioTrackImpl(16317): [audioTrackData][fine] 45s(f:45008 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:24:35.274 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:24:35.444 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:24:36.292 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:24:36.461 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:24:38.068 I/vendor.xiaomi.hardware.micharge-service( 1756): ReadFilePathValue path = 
+/sys/class/qcom-battery/real_type value = SDP
+09-15 13:24:38.068 E/IMiCharge(30837): MiCharge method 4 val = SDP
+09-15 13:24:38.069 I/IMiChargeUtils(30837): getIMiChargeStringValue method:getBatteryChargeType,value:SDP
+09-15 13:24:38.069 I/IMiChargeUtils(30837): getBatteryChargeType : SDP
+09-15 13:24:38.069 I/ChargeTimeUtilsV2(30837): chargeType:SDP
+09-15 13:24:40.055 D/AudioTrackImpl(16317): [audioTrackData][fine] 50s(f:50003 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 254
+09-15 13:24:45.059 D/AudioTrackImpl(16317): [audioTrackData][fine] 55s(f:55006 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:24:48.207 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:24:48.375 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:24:50.055 D/AudioTrackImpl(16317): [audioTrackData][fine] 60s(f:60003 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:24:55.056 D/AudioTrackImpl(16317): [audioTrackData][fine] 5s(f:5000 m:0 s:0 k:0 z:0) : pid 16317 uid 10224 
+sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:24:55.621 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:24:55.791 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:25:00.022 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:25:00.058 D/AudioTrackImpl(16317): [audioTrackData][fine] 10s(f:10003 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:25:00.198 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:25:05.064 D/AudioTrackImpl(16317): [audioTrackData][fine] 15s(f:15008 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:25:10.058 D/AudioTrackImpl(16317): [audioTrackData][fine] 20s(f:20003 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:25:14.125 I/vendor.xiaomi.hardware.micharge-service( 1756): ReadFilePathValue path = 
+/sys/class/qcom-battery/real_type value = SDP
+09-15 13:25:14.125 E/IMiCharge(30837): MiCharge method 4 val = SDP
+09-15 13:25:14.125 I/IMiChargeUtils(30837): getIMiChargeStringValue method:getBatteryChargeType,value:SDP
+09-15 13:25:14.126 I/IMiChargeUtils(30837): getBatteryChargeType : SDP
+09-15 13:25:14.126 I/ChargeTimeUtilsV2(30837): chargeType:SDP
+09-15 13:25:15.227 D/AudioTrackImpl(16317): [audioTrackData][fine] 25s(f:25000 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:25:26.868 I/AudioTrack(16317): stop(sessionID=36513), packageName: com.google.android.youtube
+09-15 13:25:26.868 D/AudioTrack(16317): stop(7890): prior state:STATE_ACTIVE
+09-15 13:25:26.868 D/AudioTrack(16317): stop(7890): called with 10061448 frames delivered
+09-15 13:25:27.701 I/AudioTrack(16317): stop(sessionID=36513), packageName: com.google.android.youtube
+09-15 13:25:27.701 D/AudioTrack(16317): stop(7890): prior state:STATE_FLUSHED
+09-15 13:25:27.701 D/AudioTrack(16317): ~AudioTrack(sessionID=36513)
+09-15 13:25:27.701 I/AudioTrack(16317): stop(sessionID=36513), packageName: com.google.android.youtube
+09-15 13:25:27.702 D/AudioTrack(16317): stop(7890): prior state:STATE_FLUSHED
+09-15 13:25:27.704 D/AudioTrackStub(16317): ~AudioTrackStub() destroy
+09-15 13:25:27.714 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:25:27.734 D/AudioTrackStub(16317): AudioTrackStub() create
+09-15 13:25:27.735 I/AudioTrackImpl(16317): initAudioTrackImpl()
+09-15 13:25:27.735 D/AudioTrack(16317): set(): (sessionId=36513), mcallback is 1, streamType -1, sampleRate 48000, 
+format 0x1, channelMask 0x3, frameCount 15376, flags 0, notificationFrames 0,transferType 3, 
+mClientAttributionSource AttributionSourceState{pid: 16317, uid: 10224, deviceId: 0, packageName: 
+com.google.android.youtube, attributionTag: (null), token: binder:0xb400007dcdac9750, renouncedPermissions: [], 
+next: []}
+09-15 13:25:27.750 D/AudioTrackImpl(16317): [APM]-AT reScheduleCpu() cpuSet=248 tid=22658
+09-15 13:25:27.752 D/android.media.AudioTrack(16317): setStereoVolume setParameters is 0.43301207, rightVolume is 
+0.43301207, isMuted is false, mIsLastMute is false, mNeedNotifyedNative is true
+09-15 13:25:27.752 D/AudioTrackImpl(16317): setMediaSetMute(7895): Parameter media_set_track_muted is 0 return
+09-15 13:25:27.752 I/AudioTrackImpl(16317): before scaleVolumeForVideo L:0.433012 R:0.433012 and the pakage is 
+com.google.android.youtube
+09-15 13:25:27.752 I/AudioTrack(16317): AudioTrack::setVolume L:0.433012 R:0.433012 sessionid=36513
+09-15 13:25:27.754 I/AudioTrack(16317): start(7895): prior state:STATE_STOPPED packageName: 
+com.google.android.youtube
+09-15 13:25:27.881 D/AudioTrackImpl(16317): [APM]-AT reScheduleCpu() cpuSet=248 tid=29616
+09-15 13:25:27.881 D/AudioTrackImpl(16317): [APM]-AT reScheduleCpu() cpuSet=248 tid=29616
+09-15 13:25:27.882 I/AudioTrackImpl(16317): before scaleVolumeForVideo L:0.433511 R:0.433511 and the pakage is 
+com.google.android.youtube
+09-15 13:25:27.882 I/AudioTrack(16317): AudioTrack::setVolume L:0.433511 R:0.433511 sessionid=36513
+09-15 13:25:27.903 D/AudioTrack(16317): getTimestamp_l(7895): device stall time corrected using current time 
+616443591720259
+09-15 13:25:28.139 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:25:28.155 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:25:28.343 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:25:28.354 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:25:28.551 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:25:29.676 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:25:29.846 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:25:29.885 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:25:30.101 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:25:35.341 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.google.android.apps.docs, 
+forceRescan=false , isNewApp=false
+09-15 13:25:35.499 D/AudioTrackImpl(16317): [audioTrackData][fine] 5s(f:5002 m:0 s:0 k:0 z:0) : pid 16317 uid 10224 
+sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:25:35.565 D/PackageManager( 2344): set app 
+component=ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.shortcut.ScanToDriveActivity} 
+enabled state: 0 from com.google.android.apps.docs,uid=10180,pid=22676
+09-15 13:25:35.566 D/PackageManager( 2344): set app component=ComponentInfo{com.google.android.apps.docs/com.google.
+android.apps.docs.androidshortcuts.ScanToDriveActivity} enabled state: 0 from 
+com.google.android.apps.docs,uid=10180,pid=22676
+09-15 13:25:35.567 D/PackageManager( 2344): set app component=ComponentInfo{com.google.android.apps.docs/com.google.
+android.apps.docs.androidshortcuts.CreateShortcutActivity} enabled state: 0 from 
+com.google.android.apps.docs,uid=10180,pid=22676
+09-15 13:25:35.568 D/PackageManager( 2344): set app component=ComponentInfo{com.google.android.apps.docs/com.google.
+android.apps.docs.androidshortcuts.CreateDocumentScanShortcutActivity} enabled state: 0 from 
+com.google.android.apps.docs,uid=10180,pid=22676
+09-15 13:25:35.569 D/PackageManager( 2344): set app component=ComponentInfo{com.google.android.apps.docs/com.google.
+android.apps.docs.common.androidshortcuts.ScanToDriveActivity} enabled state: 0 from 
+com.google.android.apps.docs,uid=10180,pid=22676
+09-15 13:25:35.571 D/PackageManager( 2344): set app component=ComponentInfo{com.google.android.apps.docs/com.google.
+android.apps.docs.common.androidshortcuts.CreateShortcutActivity} enabled state: 0 from 
+com.google.android.apps.docs,uid=10180,pid=22676
+09-15 13:25:35.572 D/PackageManager( 2344): set app component=ComponentInfo{com.google.android.apps.docs/com.google.
+android.apps.docs.common.androidshortcuts.CreateDocumentScanShortcutActivity} enabled state: 0 from 
+com.google.android.apps.docs,uid=10180,pid=22676
+09-15 13:25:36.175 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:25:36.351 D/ShortcutService( 2344): received package broadcast intent: Intent { 
+act=android.intent.action.PACKAGE_CHANGED dat=package: flg=0x45000010 (has extras) }
+09-15 13:25:36.351 D/ShortcutService( 2344): changing package: com.google.android.apps.docs userId0
+09-15 13:25:36.351 D/ShortcutService( 2344): handlePackageChanged: com.google.android.apps.docs user=0
+09-15 13:25:36.351 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.google.android.apps.docs, forceRescan=true 
+, isNewApp=false
+09-15 13:25:36.354 D/Launcher.Model( 4189): checkAssistantBlurSupport: post AssistantBlurSupportChangeMessage 
+09-15 13:25:36.354 D/EventBus( 4189): No subscribers registered for event class 
+com.miui.home.launcher.common.messages.AssistantBlurSupportChangeMessage
+09-15 13:25:36.375 W/ShortcutService( 2344): Invalid tag 'capability' found at depth 2
+09-15 13:25:36.375 E/ShortcutService( 2344): Ignoring excessive intent tag.
+09-15 13:25:36.375 W/ShortcutService( 2344): Invalid tag 'parameter' found at depth 4
+09-15 13:25:36.375 W/ShortcutService( 2344): Invalid tag 'capability' found at depth 2
+09-15 13:25:36.375 W/ShortcutService( 2344): Invalid tag 'slice' found at depth 3
+09-15 13:25:36.375 W/ShortcutService( 2344): Invalid tag 'url-template' found at depth 4
+09-15 13:25:36.375 D/ShortcutService( 2344): Package com.google.android.apps.docs has 3 manifest shortcut(s), and 1 
+share target(s)
+09-15 13:25:36.375 D/ShortcutService( 2344): Package com.google.android.apps.docs updated, version 214148855 -> 
+214148855
+09-15 13:25:36.375 D/ShortcutService( 2344): Package com.google.android.apps.docs: publishing manifest shortcuts
+09-15 13:25:36.477 D/ShortcutService( 2344): Getting shortcuts for launcher= com.xiaomi.mi_connect_serviceuser=0 
+pkg=com.google.android.apps.docs
+09-15 13:25:36.477 D/ShortcutService( 2344): Getting shortcuts for launcher= com.xiaomi.mi_connect_serviceuser=0 
+pkg=com.google.android.apps.docs
+09-15 13:25:36.477 D/ShortcutService( 2344): Getting shortcuts for launcher= com.mi.android.globallauncheruser=0 
+pkg=com.google.android.apps.docs
+09-15 13:25:36.478 D/ShortcutService( 2344): Saving package item com.google.android.apps.docs to 
+/data/system_ce/0/shortcut_service/packages/com.google.android.apps.docs.xml
+09-15 13:25:36.478 D/ShortcutService( 2344): Getting shortcuts for launcher= com.xiaomi.mi_connect_serviceuser=0 
+pkg=com.google.android.apps.docs
+09-15 13:25:36.478 D/Launcher.Model( 4189): LauncherAppsCallback 
+onShortcutsChanged|com.google.android.apps.docs|UserHandle{0}|false
+09-15 13:25:36.482 D/ShortcutService( 2344): Getting shortcuts for launcher= com.android.systemuiuser=0 
+pkg=com.google.android.apps.docs
+09-15 13:25:36.647 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:25:40.499 D/AudioTrackImpl(16317): [audioTrackData][fine] 10s(f:10001 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:25:42.570 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.google.android.gm, forceRescan=false , 
+isNewApp=false
+09-15 13:25:42.579 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.google.android.gm, forceRescan=false , 
+isNewApp=false
+09-15 13:25:42.590 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.google.android.gm, forceRescan=false , 
+isNewApp=false
+09-15 13:25:42.596 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.google.android.gm, forceRescan=false , 
+isNewApp=false
+09-15 13:25:42.616 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.google.android.gm, forceRescan=false , 
+isNewApp=false
+09-15 13:25:42.621 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.google.android.gm, forceRescan=false , 
+isNewApp=false
+09-15 13:25:42.643 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.google.android.gm, forceRescan=false , 
+isNewApp=false
+09-15 13:25:42.648 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.google.android.gm, forceRescan=false , 
+isNewApp=false
+09-15 13:25:42.655 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.google.android.gm, forceRescan=false , 
+isNewApp=false
+09-15 13:25:42.661 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.google.android.gm, forceRescan=false , 
+isNewApp=false
+09-15 13:25:42.683 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.google.android.gm, forceRescan=false , 
+isNewApp=false
+09-15 13:25:42.688 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.google.android.gm, forceRescan=false , 
+isNewApp=false
+09-15 13:25:42.713 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.google.android.gm, forceRescan=false , 
+isNewApp=false
+09-15 13:25:42.717 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.google.android.gm, forceRescan=false , 
+isNewApp=false
+09-15 13:25:42.734 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.google.android.gm, forceRescan=false , 
+isNewApp=false
+09-15 13:25:42.743 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.google.android.gm, forceRescan=false , 
+isNewApp=false
+09-15 13:25:42.765 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.google.android.gm, forceRescan=false , 
+isNewApp=false
+09-15 13:25:42.774 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.google.android.gm, forceRescan=false , 
+isNewApp=false
+09-15 13:25:42.792 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.google.android.gm, forceRescan=false , 
+isNewApp=false
+09-15 13:25:42.798 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.google.android.gm, forceRescan=false , 
+isNewApp=false
+09-15 13:25:42.807 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.google.android.gm, forceRescan=false , 
+isNewApp=false
+09-15 13:25:42.809 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.google.android.gm, forceRescan=false , 
+isNewApp=false
+09-15 13:25:42.815 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.google.android.gm, forceRescan=false , 
+isNewApp=false
+09-15 13:25:42.817 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.google.android.gm, forceRescan=false , 
+isNewApp=false
+09-15 13:25:42.833 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.google.android.gm, forceRescan=false , 
+isNewApp=false
+09-15 13:25:42.842 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.google.android.gm, forceRescan=false , 
+isNewApp=false
+09-15 13:25:42.924 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.google.android.gm, forceRescan=false , 
+isNewApp=false
+09-15 13:25:42.932 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.google.android.gm, forceRescan=false , 
+isNewApp=false
+09-15 13:25:43.031 D/ShortcutService( 2344): Getting shortcuts for launcher= com.xiaomi.mi_connect_serviceuser=0 
+pkg=com.google.android.gm
+09-15 13:25:43.032 D/ShortcutService( 2344): Getting shortcuts for launcher= com.xiaomi.mi_connect_serviceuser=0 
+pkg=com.google.android.gm
+09-15 13:25:43.032 D/ShortcutService( 2344): Getting shortcuts for launcher= com.mi.android.globallauncheruser=0 
+pkg=com.google.android.gm
+09-15 13:25:43.032 D/ShortcutService( 2344): Getting shortcuts for launcher= com.xiaomi.mi_connect_serviceuser=0 
+pkg=com.google.android.gm
+09-15 13:25:43.032 D/ShortcutService( 2344): Getting shortcuts for launcher= com.android.systemuiuser=0 
+pkg=com.google.android.gm
+09-15 13:25:43.032 D/Launcher.Model( 4189): LauncherAppsCallback 
+onShortcutsChanged|com.google.android.gm|UserHandle{0}|false
+09-15 13:25:43.034 D/ShortcutService( 2344): Saving package item com.google.android.gm to 
+/data/system_ce/0/shortcut_service/packages/com.google.android.gm.xml
+09-15 13:25:43.114 I/PlayCore(24259): UID: [10310]  PID: [24259] AssetPackServiceImpl : ServiceConnectionImpl.onServ
+iceConnected(ComponentInfo{com.android.vending/com.google.android.finsky.assetmoduleservice.AssetModuleService})
+09-15 13:25:43.400 I/UpdateService( 7772): onStartCommand: 1
+09-15 13:25:43.645 D/ShortcutService( 2344): received package broadcast intent: Intent { 
+act=android.intent.action.PACKAGE_CHANGED dat=package: flg=0x45000010 (has extras) }
+09-15 13:25:43.645 D/ShortcutService( 2344): changing package: 
+com.kotak811mobilebankingapp.instantsavingsupiscanandpayrecharge userId0
+09-15 13:25:43.646 D/Launcher.Model( 4189): checkAssistantBlurSupport: post AssistantBlurSupportChangeMessage 
+09-15 13:25:43.646 D/EventBus( 4189): No subscribers registered for event class 
+com.miui.home.launcher.common.messages.AssistantBlurSupportChangeMessage
+09-15 13:25:43.648 D/ShortcutService( 2344): handlePackageChanged: 
+com.kotak811mobilebankingapp.instantsavingsupiscanandpayrecharge user=0
+09-15 13:25:43.648 D/ShortcutService( 2344): rescanPackageIfNeeded 
+0@com.kotak811mobilebankingapp.instantsavingsupiscanandpayrecharge, forceRescan=true , isNewApp=false
+09-15 13:25:43.649 D/ShortcutService( 2344): Package 
+com.kotak811mobilebankingapp.instantsavingsupiscanandpayrecharge has 0 manifest shortcut(s), and 0 share target(s)
+09-15 13:25:43.649 D/ShortcutService( 2344): Package 
+com.kotak811mobilebankingapp.instantsavingsupiscanandpayrecharge updated, version 380 -> 380
+09-15 13:25:43.675 D/ShortcutService( 2344): Package 
+com.kotak811mobilebankingapp.instantsavingsupiscanandpayrecharge: publishing manifest shortcuts
+09-15 13:25:43.776 D/ShortcutService( 2344): Getting shortcuts for launcher= com.xiaomi.mi_connect_serviceuser=0 
+pkg=com.kotak811mobilebankingapp.instantsavingsupiscanandpayrecharge
+09-15 13:25:43.777 D/ShortcutService( 2344): Getting shortcuts for launcher= com.xiaomi.mi_connect_serviceuser=0 
+pkg=com.kotak811mobilebankingapp.instantsavingsupiscanandpayrecharge
+09-15 13:25:43.777 D/ShortcutService( 2344): Getting shortcuts for launcher= com.mi.android.globallauncheruser=0 
+pkg=com.kotak811mobilebankingapp.instantsavingsupiscanandpayrecharge
+09-15 13:25:43.778 D/ShortcutService( 2344): Getting shortcuts for launcher= com.xiaomi.mi_connect_serviceuser=0 
+pkg=com.kotak811mobilebankingapp.instantsavingsupiscanandpayrecharge
+09-15 13:25:43.778 D/Launcher.Model( 4189): LauncherAppsCallback 
+onShortcutsChanged|com.kotak811mobilebankingapp.instantsavingsupiscanandpayrecharge|UserHandle{0}|false
+09-15 13:25:43.779 D/ShortcutService( 2344): Getting shortcuts for launcher= com.android.systemuiuser=0 
+pkg=com.kotak811mobilebankingapp.instantsavingsupiscanandpayrecharge
+09-15 13:25:43.780 D/ShortcutService( 2344): Saving package item 
+com.kotak811mobilebankingapp.instantsavingsupiscanandpayrecharge to 
+/data/system_ce/0/shortcut_service/packages/com.kotak811mobilebankingapp.instantsavingsupiscanandpayrecharge.xml
+09-15 13:25:45.504 D/AudioTrackImpl(16317): [audioTrackData][fine] 15s(f:15006 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:25:47.297 D/ShortcutService( 2344): received package broadcast intent: Intent { 
+act=android.intent.action.PACKAGE_CHANGED dat=package: flg=0x45000010 (has extras) }
+09-15 13:25:47.297 D/ShortcutService( 2344): changing package: com.clubhouse.app userId0
+09-15 13:25:47.297 D/ShortcutService( 2344): handlePackageChanged: com.clubhouse.app user=0
+09-15 13:25:47.297 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.clubhouse.app, forceRescan=true , 
+isNewApp=true
+09-15 13:25:47.300 D/ShortcutService( 2344): Package com.clubhouse.app has 0 manifest shortcut(s), and 0 share 
+target(s)
+09-15 13:25:47.316 D/Launcher.Model( 4189): checkAssistantBlurSupport: post AssistantBlurSupportChangeMessage 
+09-15 13:25:47.316 D/EventBus( 4189): No subscribers registered for event class 
+com.miui.home.launcher.common.messages.AssistantBlurSupportChangeMessage
+09-15 13:25:49.927 D/MediaProvider( 6668): Open with FUSE. FilePath: /storage/emulated/0/Download/AQN6x_eQFn8NeVQGVM
+_FtLfzWBKmFjmW4IC32ilEOjf1Hn9zrTcPy393WCEkEcqjfhjFliEP4_-C5p_vb_32tI2yKDLSdTs4kGM8XEk.mp4. Uid: 10316. Media 
+Capabilities Uid: 0. ShouldRedact: false. ShouldTranscode: false
+09-15 13:25:50.499 D/AudioTrackImpl(16317): [audioTrackData][fine] 20s(f:20002 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:25:51.661 D/ShortcutService( 2344): rescanPackageIfNeeded 0@com.nordvpn.android, forceRescan=false , 
+isNewApp=false
+09-15 13:25:51.772 D/ShortcutService( 2344): Getting shortcuts for launcher= com.xiaomi.mi_connect_serviceuser=0 
+pkg=com.nordvpn.android
+09-15 13:25:51.773 D/ShortcutService( 2344): Saving package item com.nordvpn.android to 
+/data/system_ce/0/shortcut_service/packages/com.nordvpn.android.xml
+09-15 13:25:51.773 D/ShortcutService( 2344): Getting shortcuts for launcher= com.xiaomi.mi_connect_serviceuser=0 
+pkg=com.nordvpn.android
+09-15 13:25:51.781 D/ShortcutService( 2344): Getting shortcuts for launcher= com.mi.android.globallauncheruser=0 
+pkg=com.nordvpn.android
+09-15 13:25:51.781 D/ShortcutService( 2344): Getting shortcuts for launcher= com.xiaomi.mi_connect_serviceuser=0 
+pkg=com.nordvpn.android
+09-15 13:25:51.781 D/ShortcutService( 2344): Getting shortcuts for launcher= com.android.systemuiuser=0 
+pkg=com.nordvpn.android
+09-15 13:25:51.781 D/Launcher.Model( 4189): LauncherAppsCallback 
+onShortcutsChanged|com.nordvpn.android|UserHandle{0}|false
+09-15 13:25:55.502 D/AudioTrackImpl(16317): [audioTrackData][fine] 25s(f:25005 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:25:55.624 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:25:55.791 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:25:56.488 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:25:56.503 I/vendor.xiaomi.hardware.micharge-service( 1756): ReadFilePathValue path = 
+/sys/class/qcom-battery/real_type value = SDP
+09-15 13:25:56.504 E/IMiCharge(30837): MiCharge method 4 val = SDP
+09-15 13:25:56.504 I/IMiChargeUtils(30837): getIMiChargeStringValue method:getBatteryChargeType,value:SDP
+09-15 13:25:56.504 I/IMiChargeUtils(30837): getBatteryChargeType : SDP
+09-15 13:25:56.504 I/ChargeTimeUtilsV2(30837): chargeType:SDP
+09-15 13:25:56.679 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:25:56.772 I/vendor.xiaomi.hardware.micharge-service( 1756): ReadFilePathValue path = 
+/sys/class/qcom-battery/real_type value = SDP
+09-15 13:25:56.772 E/IMiCharge(30837): MiCharge method 4 val = SDP
+09-15 13:25:56.772 I/IMiChargeUtils(30837): getIMiChargeStringValue method:getBatteryChargeType,value:SDP
+09-15 13:25:56.772 I/IMiChargeUtils(30837): getBatteryChargeType : SDP
+09-15 13:25:56.772 I/ChargeTimeUtilsV2(30837): chargeType:SDP
+09-15 13:25:59.985 I/vendor.xiaomi.hardware.micharge-service( 1756): ReadFilePathValue path = 
+/sys/class/qcom-battery/real_type value = SDP
+09-15 13:25:59.986 E/IMiCharge(30837): MiCharge method 4 val = SDP
+09-15 13:25:59.986 I/IMiChargeUtils(30837): getIMiChargeStringValue method:getBatteryChargeType,value:SDP
+09-15 13:25:59.986 I/IMiChargeUtils(30837): getBatteryChargeType : SDP
+09-15 13:25:59.986 I/ChargeTimeUtilsV2(30837): chargeType:SDP
+09-15 13:26:00.011 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:26:00.181 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:26:00.504 D/AudioTrackImpl(16317): [audioTrackData][fine] 30s(f:30007 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:26:05.498 D/AudioTrackImpl(16317): [audioTrackData][fine] 35s(f:35001 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:26:06.481 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:26:06.502 I/vendor.xiaomi.hardware.micharge-service( 1756): ReadFilePathValue path = 
+/sys/class/qcom-battery/real_type value = SDP
+09-15 13:26:06.502 E/IMiCharge(30837): MiCharge method 4 val = SDP
+09-15 13:26:06.502 I/IMiChargeUtils(30837): getIMiChargeStringValue method:getBatteryChargeType,value:SDP
+09-15 13:26:06.502 I/IMiChargeUtils(30837): getBatteryChargeType : SDP
+09-15 13:26:06.502 I/ChargeTimeUtilsV2(30837): chargeType:SDP
+09-15 13:26:06.512 I/vendor.xiaomi.hardware.micharge-service( 1756): ReadFilePathValue path = 
+/sys/class/qcom-battery/real_type value = SDP
+09-15 13:26:06.512 E/IMiCharge(30837): MiCharge method 4 val = SDP
+09-15 13:26:06.512 I/IMiChargeUtils(30837): getIMiChargeStringValue method:getBatteryChargeType,value:SDP
+09-15 13:26:06.512 I/IMiChargeUtils(30837): getBatteryChargeType : SDP
+09-15 13:26:06.512 I/ChargeTimeUtilsV2(30837): chargeType:SDP
+09-15 13:26:06.673 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:26:10.220 I/vendor.xiaomi.hardware.micharge-service( 1756): ReadFilePathValue path = 
+/sys/class/qcom-battery/real_type value = SDP
+09-15 13:26:10.220 E/IMiCharge(30837): MiCharge method 4 val = SDP
+09-15 13:26:10.220 I/IMiChargeUtils(30837): getIMiChargeStringValue method:getBatteryChargeType,value:SDP
+09-15 13:26:10.220 I/IMiChargeUtils(30837): getBatteryChargeType : SDP
+09-15 13:26:10.220 I/ChargeTimeUtilsV2(30837): chargeType:SDP
+09-15 13:26:10.499 D/AudioTrackImpl(16317): [audioTrackData][fine] 40s(f:40002 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:26:14.117 I/vendor.xiaomi.hardware.micharge-service( 1756): ReadFilePathValue path = 
+/sys/class/qcom-battery/real_type value = SDP
+09-15 13:26:14.117 E/IMiCharge(30837): MiCharge method 4 val = SDP
+09-15 13:26:14.117 I/IMiChargeUtils(30837): getIMiChargeStringValue method:getBatteryChargeType,value:SDP
+09-15 13:26:14.117 I/IMiChargeUtils(30837): getBatteryChargeType : SDP
+09-15 13:26:14.117 I/ChargeTimeUtilsV2(30837): chargeType:SDP
+09-15 13:26:15.501 D/AudioTrackImpl(16317): [audioTrackData][fine] 45s(f:45004 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:26:20.507 D/AudioTrackImpl(16317): [audioTrackData][fine] 50s(f:50009 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:26:25.501 D/AudioTrackImpl(16317): [audioTrackData][fine] 55s(f:55004 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:26:30.499 D/AudioTrackImpl(16317): [audioTrackData][fine] 60s(f:60002 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:26:35.344 I/PowerKeeperBackgroundService( 8666): onStartCommand()
+09-15 13:26:35.509 D/AudioTrackImpl(16317): [audioTrackData][fine] 5s(f:5010 m:0 s:0 k:0 z:0) : pid 16317 uid 10224 
+sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:26:37.225 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:26:37.394 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:26:40.500 D/AudioTrackImpl(16317): [audioTrackData][fine] 10s(f:10000 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:26:45.508 D/AudioTrackImpl(16317): [audioTrackData][fine] 15s(f:15009 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:26:50.504 D/AudioTrackImpl(16317): [audioTrackData][fine] 20s(f:20005 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:26:55.506 D/AudioTrackImpl(16317): [audioTrackData][fine] 25s(f:25006 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:26:55.624 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:26:55.794 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:27:00.020 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:27:00.197 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:27:00.499 D/AudioTrackImpl(16317): [audioTrackData][fine] 30s(f:30000 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:27:05.507 D/AudioTrackImpl(16317): [audioTrackData][fine] 35s(f:35007 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:27:10.461 D/MiuiShortcut-ShortcutPluginImpl( 4537): onSystemUIAction, action: onStartedGoingToSleep
+09-15 13:27:10.461 D/MiuiShortcutController( 4537): onShortcutPluginCallbackWrap, 
+action=updateCanShowBiometricAuthentication
+09-15 13:27:10.466 I/MiuiKeyIntercept( 2344): MIUI Keyboard Shortcut status is:false
+09-15 13:27:10.488 D/MiuiShortcut-ShortcutPluginImpl( 4537): onSystemUIAction, action: onKeyguardGoingAwayChanged, 
+isKeyguardGoingAway=false
+09-15 13:27:10.503 D/AudioTrackImpl(16317): [audioTrackData][fine] 40s(f:40003 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:27:10.513 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:27:10.943 D/ColorManager( 1751): crtc0 register Histogram enable:0 ->success
+09-15 13:27:10.957 I/SDM     ( 1646): HWDeviceDRM::NullCommit: Null commit succeeded crtc=169
+09-15 13:27:11.158 D/MiuiShortcut-ShortcutPluginImpl( 4537): onSystemUIAction, action: onBottomAreaAlphaChange, 
+newConfig=1.0
+09-15 13:27:11.164 E/ColorManager( 1751): crtc0 register Histogram enable:0 ->failed
+09-15 13:27:11.165 D/MiuiShortcut-ShortcutPluginImpl( 4537): onSystemUIAction, action: onGxzwIconShownChanged, 
+isGxzwLowPosAndFingerApplyForKeyguard=true
+09-15 13:27:11.168 D/MiuiShortcut-ShortcutPluginImpl( 4537): onSystemUIAction, action: onKeyguardShowingChanged, 
+keyguardShowing=true
+09-15 13:27:11.168 D/MiuiShortcutController( 4537): onShortcutPluginCallbackWrap, 
+action=updateCanShowBiometricAuthentication
+09-15 13:27:11.174 D/MiuiShortcut-ShortcutPluginImpl( 4537): onSystemUIAction, action: onBottomAreaAlphaChange, 
+newConfig=1.0
+09-15 13:27:11.179 D/MiuiShortcut-ShortcutPluginImpl( 4537): onSystemUIAction, action: onFinishedGoingToSleep
+09-15 13:27:11.179 I/MiuiShortcut-MiuiShortcutManager( 4537): AOD_MODE 0
+09-15 13:27:11.179 I/MiuiShortcut-MiuiShortcutManager( 4537): fullAodEnable=false
+09-15 13:27:11.180 D/QC-time-services( 1388): Daemon:Value read from RTC mseconds on boot = 16583342000
+09-15 13:27:11.203 D/MiuiShortcut-ShortcutPluginImpl( 4537): onSystemUIAction, action: 
+isUnoccludedAnimationPlaying=null
+09-15 13:27:11.204 D/MiuiShortcut-ShortcutPluginImpl( 4537): onSystemUIAction, action: onBottomAreaAlphaChange, 
+newConfig=1.0
+09-15 13:27:11.210 D/MiuiShortcut-ShortcutPluginImpl( 4537): onSystemUIAction, action: onBottomAreaAlphaChange, 
+newConfig=1.0
+09-15 13:27:11.324 D/MiuiShortcut-ShortcutPluginImpl( 4537): onSystemUIAction, action: onBottomAreaAlphaChange, 
+newConfig=1.0
+09-15 13:27:11.333 D/MiuiShortcut-ShortcutPluginImpl( 4537): onSystemUIAction, action: onBottomAreaAlphaChange, 
+newConfig=1.0
+09-15 13:27:11.400 I/SDM     ( 1646): HWDeviceDRM::NullCommit: Null commit succeeded crtc=169
+09-15 13:27:11.404 D/MiuiShortcut-ShortcutPluginImpl( 4537): onSystemUIAction, action: onBottomAreaAlphaChange, 
+newConfig=1.0
+09-15 13:27:12.512 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:27:14.133 I/vendor.xiaomi.hardware.micharge-service( 1756): ReadFilePathValue path = 
+/sys/class/qcom-battery/real_type value = SDP
+09-15 13:27:14.134 E/IMiCharge(30837): MiCharge method 4 val = SDP
+09-15 13:27:14.134 I/IMiChargeUtils(30837): getIMiChargeStringValue method:getBatteryChargeType,value:SDP
+09-15 13:27:14.134 I/IMiChargeUtils(30837): getBatteryChargeType : SDP
+09-15 13:27:14.134 I/ChargeTimeUtilsV2(30837): chargeType:SDP
+09-15 13:27:15.500 D/AudioTrackImpl(16317): [audioTrackData][fine] 45s(f:45001 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:27:15.523 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:27:15.576 I/SDM     ( 1646): HWDeviceDRM::NullCommit: Null commit succeeded crtc=169
+09-15 13:27:15.601 I/SDM     ( 1646): HWDeviceDRM::NullCommit: Null commit succeeded crtc=169
+09-15 13:27:15.605 E/ColorManager( 1751): crtc0 register Histogram enable:0 ->failed
+09-15 13:27:15.930 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:27:20.499 D/AudioTrackImpl(16317): [audioTrackData][fine] 50s(f:50000 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:27:25.509 D/AudioTrackImpl(16317): [audioTrackData][fine] 55s(f:55010 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:27:30.504 D/AudioTrackImpl(16317): [audioTrackData][fine] 60s(f:60005 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:27:35.505 D/AudioTrackImpl(16317): [audioTrackData][fine] 5s(f:5001 m:0 s:0 k:0 z:0) : pid 16317 uid 10224 
+sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:27:40.509 D/AudioTrackImpl(16317): [audioTrackData][fine] 10s(f:10005 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 254
+09-15 13:27:45.504 D/AudioTrackImpl(16317): [audioTrackData][fine] 15s(f:15000 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:27:50.507 D/AudioTrackImpl(16317): [audioTrackData][fine] 20s(f:20002 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:27:55.509 D/AudioTrackImpl(16317): [audioTrackData][fine] 25s(f:25004 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:28:00.513 D/AudioTrackImpl(16317): [audioTrackData][fine] 30s(f:30009 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:28:01.512 I/NetworkAccelerateSwitchService( 2344): checkRssiPollStartConditions  mWifiReady:false 
+mRssiPoll:false checkScreenStatus():false isEnableAccelerationSwitch():false
+09-15 13:28:01.513 I/NetworkAccelerateSwitchService( 2344): checkRttPollStartConditions  mWifiReady:false 
+mRssiPoll:false mRssiInRange:true mEffectForegroundUid:0 checkScreenStatus():false 
+isEnableAccelerationSwitch():false
+09-15 13:28:01.530 I/NetworkAccelerateSwitchService( 2344): checkRttPollStartConditions stop
+09-15 13:28:05.506 D/AudioTrackImpl(16317): [audioTrackData][fine] 35s(f:35001 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:28:10.512 D/AudioTrackImpl(16317): [audioTrackData][fine] 40s(f:40008 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:28:14.170 I/vendor.xiaomi.hardware.micharge-service( 1756): ReadFilePathValue path = 
+/sys/class/qcom-battery/real_type value = SDP
+09-15 13:28:14.170 E/IMiCharge(30837): MiCharge method 4 val = SDP
+09-15 13:28:14.171 I/IMiChargeUtils(30837): getIMiChargeStringValue method:getBatteryChargeType,value:SDP
+09-15 13:28:14.171 I/IMiChargeUtils(30837): getBatteryChargeType : SDP
+09-15 13:28:14.172 I/ChargeTimeUtilsV2(30837): chargeType:SDP
+09-15 13:28:14.780 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:28:14.968 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:28:15.509 D/AudioTrackImpl(16317): [audioTrackData][fine] 45s(f:45005 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:28:20.511 D/AudioTrackImpl(16317): [audioTrackData][fine] 50s(f:50006 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:28:25.508 D/AudioTrackImpl(16317): [audioTrackData][fine] 55s(f:55004 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:28:30.512 D/AudioTrackImpl(16317): [audioTrackData][fine] 60s(f:60008 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:28:35.519 D/AudioTrackImpl(16317): [audioTrackData][fine] 5s(f:5007 m:0 s:0 k:0 z:0) : pid 16317 uid 10224 
+sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:28:40.520 D/AudioTrackImpl(16317): [audioTrackData][fine] 10s(f:10008 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:28:45.512 D/AudioTrackImpl(16317): [audioTrackData][fine] 15s(f:15000 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 254
+09-15 13:28:46.600 I/Nearby  ( 2140): (REDACTED) is blocked device type %s, isAuto=%s, isIot=%s, isLatchsky=%s, 
+isChinaWearable=%s, isTv=%s, isWearable=%s (supportWearOs=%s), isChromeOsDevice=%s (supportChromeOs=%s)
+09-15 13:28:46.603 I/NearbyDiscovery( 2140): (REDACTED) DiscoveryService onStartCommand action: %s
+09-15 13:28:46.603 I/Nearby  ( 2140): (REDACTED) is blocked device type %s, isAuto=%s, isIot=%s, isLatchsky=%s, 
+isChinaWearable=%s, isTv=%s, isWearable=%s (supportWearOs=%s), isChromeOsDevice=%s (supportChromeOs=%s)
+09-15 13:28:46.605 I/NearbyDiscovery( 2140): (REDACTED) DiscoveryService onStartCommand action: %s
+09-15 13:28:50.520 D/AudioTrackImpl(16317): [audioTrackData][fine] 20s(f:20007 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:28:55.521 D/AudioTrackImpl(16317): [audioTrackData][fine] 25s(f:25009 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:29:00.512 D/AudioTrackImpl(16317): [audioTrackData][fine] 30s(f:30000 m:0 s:0 k:0 z:0) : pid 16317 uid 
+10224 sessionId 36513 sr 48000 ch 2 fmt 1 maxAmplitude 255
+09-15 13:29:00.569 I/SDM     ( 1646): HWDeviceDRM::NullCommit: Null commit succeeded crtc=169
+09-15 13:29:00.589 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:29:00.790 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:29:00.792 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:29:00.960 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:29:01.059 D/ArtChoreographerMonitor( 4537): invoke error.
+09-15 13:29:01.079 D/MiuiShortcut-ShortcutPluginImpl( 4537): onSystemUIAction, action: onBottomAreaAlphaChange, 
+newConfig=1.0
+09-15 13:29:01.090 D/MiuiShortcut-ShortcutPluginImpl( 4537): onSystemUIAction, action: onKeyguardGoingAwayChanged, 
+isKeyguardGoingAway=true
+09-15 13:29:01.099 I/SDM     ( 1646): HWDeviceDRM::NullCommit: Null commit succeeded crtc=169
+09-15 13:29:01.126 D/MiuiShortcut-ShortcutPluginImpl( 4537): onSystemUIAction, action: onStartedWakingUp
+09-15 13:29:01.137 D/MiuiShortcut-ShortcutPluginImpl( 4537): onSystemUIAction, action: 
+isUnoccludedAnimationPlaying=null
+09-15 13:29:01.138 D/MiuiShortcut-ShortcutPluginImpl( 4537): onSystemUIAction, action: onBottomAreaAlphaChange, 
+newConfig=1.0
+09-15 13:29:01.150 D/ClockBaseAnimation( 4537): updateAnimationState: magazineY= 0,startColor= 
+ffffffff,endColor=ffdcdddd
+09-15 13:29:01.150 D/MiuiShortcut-ShortcutPluginImpl( 4537): onSystemUIAction, action: onBottomAreaAlphaChange, 
+newConfig=1.0
+09-15 13:29:01.156 D/MiuiShortcut-ShortcutPluginImpl( 4537): onSystemUIAction, action: onBottomAreaAlphaChange, 
+newConfig=1.0
+09-15 13:29:01.232 W/libsensor-boledalgo( 2879): startCalculateLux: drop some sensordata screen on!!!
+09-15 13:29:01.422 I/MiuiKeyIntercept( 2344): MIUI Keyboard Shortcut status is:true
+09-15 13:29:01.701 D/MiuiShortcut-ShortcutPluginImpl( 4537): onSystemUIAction, action: onBottomAreaAlphaChange, 
+newConfig=1.0
+09-15 13:29:01.702 D/MiuiShortcut-ShortcutPluginImpl( 4537): onSystemUIAction, action: 
+isUnoccludedAnimationPlaying=null
+09-15 13:29:01.702 D/MiuiShortcut-ShortcutPluginImpl( 4537): onSystemUIAction, action: onKeyguardShowingChanged, 
+keyguardShowing=false
+09-15 13:29:01.702 D/MiuiShortcut-ShortcutWindowManager( 4537): removeRootViewFromWindow
+09-15 13:29:01.713 D/MiuiShortcut-ShortcutPluginImpl( 4537): onSystemUIAction, action: 
+isUnoccludedAnimationPlaying=null
+09-15 13:29:01.725 D/MiuiShortcut-ShortcutPluginImpl( 4537): onSystemUIAction, action: 
+isUnoccludedAnimationPlaying=null
+09-15 13:29:01.749 D/MiuiShortcut-ShortcutPluginImpl( 4537): onSystemUIAction, action: 
+isOccludedAnimationPlaying=false
+09-15 13:29:01.749 D/MiuiShortcut-ShortcutPluginImpl( 4537): onSystemUIAction, action: 
+isUnoccludedAnimationPlaying=null
+09-15 13:29:02.873 D/ArtChoreographerMonitor( 4537): invoke error.
+
+
