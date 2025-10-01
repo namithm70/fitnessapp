@@ -83,3 +83,8 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.temp
+# Ignore debug logs and screenshots added during testing
+/screenshots/
+*.log
+*logs*.txt
+phone*.txt
